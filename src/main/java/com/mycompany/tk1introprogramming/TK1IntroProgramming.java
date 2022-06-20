@@ -40,6 +40,7 @@ public class TK1IntroProgramming {
 
         System.out.println("Menu Spesial Hari ini");
         System.out.println("=====================");
+        System.out.println("Testing");
 
         for (int i = 0; i < arr.length; i++) {
             System.out.println((i+1)+". " + arr[i].nama + "\t Rp. " + arr[i].harga) ;
